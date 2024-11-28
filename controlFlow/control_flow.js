@@ -48,3 +48,8 @@ switch (userType) {
 
 console.log("User Category:", userCategory);
 
+// step 5 - ternary operator : (? :)
+let isAuthenticated = true;
+let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";
+
+console.log("Authentication Status:", authenticationStatus);

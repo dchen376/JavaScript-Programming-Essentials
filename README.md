@@ -175,8 +175,90 @@ https://www.coursera.org/learn/javascript-programming-essentials
 
 
 ### Intro to Objects and Strings in JS
+#### Classes and Objects in JavaScript
+![image](https://github.com/user-attachments/assets/103a4220-674d-4a07-ad22-03cd19c78a40)
 
-### Summart
+![image](https://github.com/user-attachments/assets/4909b9e3-f6f3-4e0e-b3b9-6bd0c1e6e425)
+![image](https://github.com/user-attachments/assets/ea1bf1f0-36b4-40a3-8a82-db61c24664fc)
+
+![image](https://github.com/user-attachments/assets/fc87c82e-e100-468a-ac33-c4124d2024fa)
+![image](https://github.com/user-attachments/assets/ee03ddfc-654a-4c0b-9f7a-44a49f34bfe1)
+
+![image](https://github.com/user-attachments/assets/6f74f283-c536-4648-b628-114e7ab9b80f)
+
+![image](https://github.com/user-attachments/assets/d3670447-e1b6-4c5a-bdf7-d4419bb7c8a1)
+
+![image](https://github.com/user-attachments/assets/e92c4026-2285-46c9-a935-613a89a58b52)
+
+![image](https://github.com/user-attachments/assets/6a1a215c-2bc2-42dc-8666-af8f472aa872)
+
+![image](https://github.com/user-attachments/assets/44485372-cb96-47e0-b6b4-7c421f59e1e8)
+
+##### classes
+##### object literals
+##### function constructors
+![image](https://github.com/user-attachments/assets/e224fea8-3fb7-4644-99dd-a570924e51ff)
+
+
+#### Accessing Object Properties
+![image](https://github.com/user-attachments/assets/67cc4607-42d3-4456-b438-a23fc8eb9791)
+
+![image](https://github.com/user-attachments/assets/76cc7249-1c2a-490d-a535-3f9fe25d6067)
+
+![image](https://github.com/user-attachments/assets/459971e6-bf30-44c8-9803-9acae46214bc)
+![image](https://github.com/user-attachments/assets/d21ffb35-6b3f-4e55-a0e1-1d9800df08e5)
+
+![image](https://github.com/user-attachments/assets/404e4b23-1fea-4ee5-bd73-545c97c68b63)
+![image](https://github.com/user-attachments/assets/7552aa02-dec3-42ea-ba19-997a16d15191)
+
+![image](https://github.com/user-attachments/assets/e84e70dd-5d1b-4f71-90be-9b6f5d0dca2e)
+
+#### Introduction to String and String Manipulation
+![image](https://github.com/user-attachments/assets/b45a103d-22e6-4c71-aee5-9c7dc90dc460)
+
+![image](https://github.com/user-attachments/assets/ce8ea6dc-9017-4789-8d28-f5b21f6a5d6a)
+
+![image](https://github.com/user-attachments/assets/122bd6a0-32cc-4189-ada5-bcb8d76d3a23)
+
+![image](https://github.com/user-attachments/assets/e0a49ed2-e5d5-43dd-8433-4d4c1d733d3c)
+
+![image](https://github.com/user-attachments/assets/6957291b-655b-4106-82e8-5ecdee2303cb)
+
+![image](https://github.com/user-attachments/assets/74af2978-ab0a-4531-84fd-f0d068f9bdae)
+
+![image](https://github.com/user-attachments/assets/bffa0086-e6b8-4009-baa9-9ca5b932988c)
+
+![image](https://github.com/user-attachments/assets/76ca5cab-d7d6-448a-afaf-7d1c265ed931)
+
+![image](https://github.com/user-attachments/assets/0b14dfbb-b467-437e-81b3-e8c7a1200df3)
+
+![image](https://github.com/user-attachments/assets/01601785-2bc9-4ca3-ba68-3725d5d36b19)
+
+#### Introduction to Math and Date Objects
+![image](https://github.com/user-attachments/assets/3ed71260-ca37-4b4e-b951-df38be5ef233)
+
+![image](https://github.com/user-attachments/assets/775854f2-4c09-460a-a8b1-575c514098ed)
+
+![image](https://github.com/user-attachments/assets/49f48114-a2ea-45e2-870c-fa5141ae0b7c)
+![image](https://github.com/user-attachments/assets/60a83635-6ab7-40bc-8a1b-6ec39df26f5b)
+![image](https://github.com/user-attachments/assets/5501343d-423f-403a-927e-205817f28117)
+![image](https://github.com/user-attachments/assets/dacdafe1-b224-4ea1-a4ee-17cdbc637297)
+
+![image](https://github.com/user-attachments/assets/daa05dae-ca46-4a15-88b4-648f2c863e37)
+![image](https://github.com/user-attachments/assets/df4f38bb-581c-4224-8e54-dc55cea39200)
+![image](https://github.com/user-attachments/assets/06b331b1-bd24-4ebf-ac58-4d0cf722415d)
+![image](https://github.com/user-attachments/assets/4c7e832b-5a50-46b7-b176-6472d112c51e)
+![image](https://github.com/user-attachments/assets/c34969e8-e099-4760-be48-e0d05da92d00)
+
+![image](https://github.com/user-attachments/assets/63f30973-c412-4357-b2d6-b66332cb9be9)
+![image](https://github.com/user-attachments/assets/6605be5d-6dc6-4679-8c68-64300d10e0f3)
+![image](https://github.com/user-attachments/assets/d1271426-472a-452d-ae11-b20a1c1bd8c7)
+
+
+
+
+
+### Summary
 
 
 ## M3 - Working with DOM in JavaScript

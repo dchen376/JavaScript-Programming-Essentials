@@ -254,18 +254,70 @@ https://www.coursera.org/learn/javascript-programming-essentials
 ![image](https://github.com/user-attachments/assets/6605be5d-6dc6-4679-8c68-64300d10e0f3)
 ![image](https://github.com/user-attachments/assets/d1271426-472a-452d-ae11-b20a1c1bd8c7)
 
-
-
-
-
 ### Summary
 
 
 ## M3 - Working with DOM in JavaScript
 ![image](https://github.com/user-attachments/assets/59f8af7c-2848-4714-8a85-d6083f5e9fe8)
 
+### Working with Document Object Model (DOM) 
+#### Introduction to Debugging in JavaScript
+![image](https://github.com/user-attachments/assets/ca016fd2-999b-4b37-ac8f-af7c7a26f72b)
 
-### Working with DOM
+![image](https://github.com/user-attachments/assets/1c10158b-d2e4-46c2-9a6e-6d76f245913e)
+
+![image](https://github.com/user-attachments/assets/0f89d541-9ec8-46e4-b6b0-ecbc50327e57)
+
+![image](https://github.com/user-attachments/assets/77e82964-e394-4ca9-9c7a-eb7ce51fb326)
+![image](https://github.com/user-attachments/assets/747e2c15-7909-4298-a689-7dd39a05fd72)
+
+![image](https://github.com/user-attachments/assets/a55f6907-7170-49a4-80a3-0fef94aa4572)
+
+
+#### Introduction to the Document Object Model (DOM)
+![image](https://github.com/user-attachments/assets/7af66f26-f40a-47d8-a2ec-af2dd2b45a7d)
+![image](https://github.com/user-attachments/assets/510598b2-392e-4174-acaf-6cec7cae010a)
+
+![image](https://github.com/user-attachments/assets/5e9a2d0c-18a8-4b30-a219-eb3c77a17d0f)
+![image](https://github.com/user-attachments/assets/0d426bb6-6fe1-451f-ade3-72cf609ae9cb)
+
+![image](https://github.com/user-attachments/assets/5bf2126c-7479-4461-93a5-a969eaf6fcf9)
+![image](https://github.com/user-attachments/assets/b406b5ed-6eee-433d-aded-aed168e72e08)
+
+![image](https://github.com/user-attachments/assets/ffbbd77c-cbad-4f63-8ca2-1803c279ed99)
+![image](https://github.com/user-attachments/assets/301c18a5-06ae-476e-b09b-9182fcd28130)
+![image](https://github.com/user-attachments/assets/9769e529-fcf8-4e5f-b216-02b1fd5bd204)
+![image](https://github.com/user-attachments/assets/ea6afa56-3ef2-4650-bd02-a5928ba5c067)
+![image](https://github.com/user-attachments/assets/62311e74-b1b3-46da-b01d-66094cbf6065)
+![image](https://github.com/user-attachments/assets/fb8a052c-b22d-45d7-acff-7a2a81f40adf)
+
+![image](https://github.com/user-attachments/assets/5fb47cef-f832-4000-86b1-248a95379838)
+
+#### Manipulating DOM Elements
+![image](https://github.com/user-attachments/assets/0809e9c6-2955-41e1-be17-650bc027b4c8)
+
+![image](https://github.com/user-attachments/assets/6d27c723-4e16-44e9-989f-cdef4ff79a3b)
+
+![image](https://github.com/user-attachments/assets/c258a714-fbda-4a60-9d15-66ca95f8702d)
+
+![image](https://github.com/user-attachments/assets/df5e3b4e-7121-4b11-8687-c0e03e28ef48)
+
+![image](https://github.com/user-attachments/assets/9f16fe90-8fd1-4f83-a91f-776b2141d30e)
+
+![image](https://github.com/user-attachments/assets/90ae679b-cdbf-4c72-80ef-c0276e7e33e0)
+![image](https://github.com/user-attachments/assets/4eba29e9-af0b-4777-9453-a75d4760a164)
+![image](https://github.com/user-attachments/assets/c3c40c88-b88f-4f24-ad06-7cf2ef7de9db)
+
+![image](https://github.com/user-attachments/assets/80a3329c-4c83-43f8-a2ec-1d4058d4bef8)
+![image](https://github.com/user-attachments/assets/9fc3ca58-144f-4687-a037-bab8c6e3a5ac)
+![image](https://github.com/user-attachments/assets/9bea0fe9-6eb1-4a12-ba49-7fe3a5416a72)
+![image](https://github.com/user-attachments/assets/19a6d5d7-ae3c-4243-94d6-cb9242db13e6)
+![image](https://github.com/user-attachments/assets/2d9b95c7-4b98-47f3-b247-ace38d5b0f0a)
+![image](https://github.com/user-attachments/assets/ef78a925-d9cc-484e-9e9e-e991878d1964)
+![image](https://github.com/user-attachments/assets/0a2c1845-ef0a-4326-8a26-a47fc32d8c03)
+
+
+
 
 
 ### Traversing and Styling of DOM

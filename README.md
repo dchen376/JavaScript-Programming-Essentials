@@ -317,10 +317,73 @@ https://www.coursera.org/learn/javascript-programming-essentials
 ![image](https://github.com/user-attachments/assets/0a2c1845-ef0a-4326-8a26-a47fc32d8c03)
 
 
-
-
-
 ### Traversing and Styling of DOM
+#### Introduction to Browser Object Model (BOM)
+![image](https://github.com/user-attachments/assets/13e4de20-3005-445a-a8e5-df6b3412692a)
+![image](https://github.com/user-attachments/assets/651d42a4-77e1-4684-bf4b-d524864d3848)
+
+![image](https://github.com/user-attachments/assets/764453c5-4390-4bad-bab1-b425ef94cd99)
+
+![image](https://github.com/user-attachments/assets/93959e5e-798d-4aa6-aadd-2806a0c3ff2b)
+![image](https://github.com/user-attachments/assets/b1dff8b5-4de7-4a25-89cf-c4e2ae2d5fd7)
+
+![image](https://github.com/user-attachments/assets/102df099-01a3-4a12-bc3c-3f7640a9ab6a)
+
+![image](https://github.com/user-attachments/assets/1f1834de-2ad8-43a0-b8be-4b1ca3baf8dd)
+
+![image](https://github.com/user-attachments/assets/ffeafd41-68c4-498c-8d67-ad3cacf2dc2a)
+
+![image](https://github.com/user-attachments/assets/94588d00-b90c-4cfd-aaf0-03cf7df65b2f)
+
+
+![image](https://github.com/user-attachments/assets/80675c51-8259-4ae8-9f47-7c3444a79f37)
+![image](https://github.com/user-attachments/assets/6f7e0e95-f972-4ab5-9d8d-30aca1ee00da)
+
+![image](https://github.com/user-attachments/assets/6f48d0e2-e222-414d-a97d-efe23a5d5e7f)
+
+
+#### Traversing the DOM
+![image](https://github.com/user-attachments/assets/4cd76ef0-6cdf-4764-b0ca-38113e2815b6)
+![image](https://github.com/user-attachments/assets/186f18d2-8e9b-445b-b713-e33815421380)
+
+![image](https://github.com/user-attachments/assets/26bc1157-798f-434e-956e-5d30c594e7dd)
+
+![image](https://github.com/user-attachments/assets/1dfa8519-69f7-425d-9d76-a51e5975b84b)
+![image](https://github.com/user-attachments/assets/bcbcb350-e336-4bfc-bec0-08f1d54c9d58)
+
+![image](https://github.com/user-attachments/assets/557ed4b1-9496-422c-b794-6b832ac5a561)
+![image](https://github.com/user-attachments/assets/a539e2da-d65f-4f77-bdf9-bca78a4e5410)
+![image](https://github.com/user-attachments/assets/f2822971-45de-4e25-83d2-a1c0a5d35594)
+
+
+![image](https://github.com/user-attachments/assets/c76e0a1a-347b-434d-a1e3-f68a38169985)
+![image](https://github.com/user-attachments/assets/172dabd0-f320-45dc-ac23-0540fc1b30a3)
+![image](https://github.com/user-attachments/assets/cde99c08-e7c4-4ffa-a55a-802b11b6d2e7)
+
+![image](https://github.com/user-attachments/assets/b291d62a-8f3f-428e-b977-f9c873178cdc)
+
+
+#### Styling DOM Elements
+![image](https://github.com/user-attachments/assets/b057dc34-54c0-4ba3-9fdd-e22d5129d455)
+![image](https://github.com/user-attachments/assets/7ee420df-d478-40e0-ae93-b88c4246702e)
+![image](https://github.com/user-attachments/assets/1e5cdb45-07ae-460e-8c06-5442033142a0)
+
+![image](https://github.com/user-attachments/assets/ea8b29c9-15c4-4066-b207-1d8776bca42d)
+
+![image](https://github.com/user-attachments/assets/e07de6fa-27b7-4aaf-ae6b-de01185cd1d0)
+![image](https://github.com/user-attachments/assets/ef76a0d5-d9f6-430f-a4d5-005016e68dcc)
+![image](https://github.com/user-attachments/assets/8fed66a2-92e6-4de9-a2b1-96c90316c2c7)
+
+![image](https://github.com/user-attachments/assets/766bfbce-dfd4-410a-8aad-1f6e9f9acac8)
+![image](https://github.com/user-attachments/assets/2d6992b1-4b9c-438b-b026-3b4447fc604a)
+
+![image](https://github.com/user-attachments/assets/c3b8b9b7-d799-4851-99ac-e2e8c209770c)
+
+![image](https://github.com/user-attachments/assets/bc36f51a-fe4d-408d-80d8-e99d399596a0)
+
+![image](https://github.com/user-attachments/assets/95edd3fa-e538-4105-acdb-e2742b00c615)
+
+![image](https://github.com/user-attachments/assets/7d705cd5-2823-43c6-aacb-c5148f319e36)
 
 
 ### Summary

@@ -115,6 +115,64 @@ https://www.coursera.org/learn/javascript-programming-essentials
 
 
 ### Intro to Arrys in JS
+#### Introduction to Arrays
+![image](https://github.com/user-attachments/assets/24b5fb51-b28d-4e4d-9b62-35a59f8a8250)
+
+![image](https://github.com/user-attachments/assets/4c684aab-4e93-4573-bd0c-57a6ff54384b)
+
+
+#### Manipulating and Iterating Arrays
+![image](https://github.com/user-attachments/assets/72c28755-34c8-4943-94df-6d79c0fc22c2)
+
+![image](https://github.com/user-attachments/assets/d8081263-8480-48b6-baef-d9d3ca791c24)
+
+![image](https://github.com/user-attachments/assets/235db8a5-66c4-444d-8fdf-e998d6a30978)
+
+![image](https://github.com/user-attachments/assets/70596e07-af4f-48d4-9785-61fc08219975)
+
+![image](https://github.com/user-attachments/assets/f14d73e6-7b1e-4e6b-84e4-6ab009c48c9c)
+
+![image](https://github.com/user-attachments/assets/c70bffb1-b875-4755-b115-047f151dba51)
+
+![image](https://github.com/user-attachments/assets/c020008a-6057-4336-b560-a6d11ede4b52)
+
+![image](https://github.com/user-attachments/assets/e060d1bb-e2a5-4344-8da1-c1b4d077ea87)
+
+![image](https://github.com/user-attachments/assets/928f70bb-102c-467b-a9c9-d8221867a690)
+![image](https://github.com/user-attachments/assets/b84aa855-511d-4270-911a-43dac9b69ab9)
+
+![image](https://github.com/user-attachments/assets/9cef231e-4c49-4a58-b4e0-207ef7e6d4b4)
+![image](https://github.com/user-attachments/assets/dc33e0ef-94ef-4485-88ca-ce27bd848763)
+![image](https://github.com/user-attachments/assets/2288c89d-798c-49c4-b42b-52732c72c431)
+
+![image](https://github.com/user-attachments/assets/bdcc7965-3e03-481b-a2e4-dd60f537cbe3)
+![image](https://github.com/user-attachments/assets/20d45dfa-96da-4587-8dd9-365202574874)
+
+#### Array Methods
+![image](https://github.com/user-attachments/assets/d96344ef-fd6b-405b-abdc-e802b2588522)
+
+![image](https://github.com/user-attachments/assets/74d16101-2265-4482-b85c-81e8babd9ddc)
+
+![image](https://github.com/user-attachments/assets/26872edb-5aa5-4690-861d-ddf6549c2433)
+![image](https://github.com/user-attachments/assets/b63616b5-827e-44da-9f29-3987adbb70be)
+
+![image](https://github.com/user-attachments/assets/a13d275d-2266-445c-84bd-a5d000a0e972)
+![image](https://github.com/user-attachments/assets/c8979e5a-00a4-4672-9418-931fa95cb1a2)
+
+![image](https://github.com/user-attachments/assets/a1237fa7-9a52-4e18-9231-e4276eaa00ed)
+
+![image](https://github.com/user-attachments/assets/241beb08-95a5-41bd-b66a-347b3103ea82)
+
+#### Working with Two-Dimensional Arrays
+![image](https://github.com/user-attachments/assets/0561d717-70a5-4cf7-8bbb-03e6029f10ee)
+![image](https://github.com/user-attachments/assets/8a6cfc41-1312-446e-89cc-c354483b3240)
+
+![image](https://github.com/user-attachments/assets/225f6c4a-1088-4dea-93eb-560c76ed483f)
+
+
+
+
+
 
 ### Intro to Objects and Strings in JS
 

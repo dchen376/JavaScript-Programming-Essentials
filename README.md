@@ -1,7 +1,7 @@
 # JavaScript Programming Essentials
 https://www.coursera.org/learn/javascript-programming-essentials
 
-## Intro to Javascript Development
+## M1 - Intro to Javascript Development
 
 ### Intro to JS
 
@@ -12,7 +12,7 @@ https://www.coursera.org/learn/javascript-programming-essentials
 
 
 
-## Arrays and Objects in Javascript
+## M2 - Arrays and Objects in Javascript
 
 ### Intro to Arrys in JS
 
@@ -21,7 +21,7 @@ https://www.coursera.org/learn/javascript-programming-essentials
 ### Summart
 
 
-## Working with DOM in JavaScript
+## M3 - Working with DOM in JavaScript
 
 ### Working with DOM
 
@@ -34,7 +34,7 @@ https://www.coursera.org/learn/javascript-programming-essentials
 
 
 
-## Javascript Async
+## M4 - Javascript Async
 
 ### JS Async and HTTP Requests
 
@@ -43,7 +43,7 @@ https://www.coursera.org/learn/javascript-programming-essentials
 ### Summary
 
 
-## Final Project
+## M5 - Final Project
 
 ### Practice project - develop an APP for Healthcare Census
 

@@ -1,7 +1,14 @@
 # JavaScript Programming Essentials
 https://www.coursera.org/learn/javascript-programming-essentials
+![image](https://github.com/user-attachments/assets/091cdf7b-aac0-4440-beda-55e7e51a6226)
+![image](https://github.com/user-attachments/assets/41017ada-1a7e-4957-b823-d4025a5dfaee)
+![image](https://github.com/user-attachments/assets/cb59c84a-b14a-46ad-a195-2ad9cb4b4eb7)
+
+![image](https://github.com/user-attachments/assets/be50cc27-ab0b-41ba-b2aa-f2bd230ae034)
 
 ## M1 - Intro to Javascript Development
+
+
 
 ### Intro to JS
 

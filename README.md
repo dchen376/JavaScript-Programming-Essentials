@@ -399,6 +399,74 @@ https://www.coursera.org/learn/javascript-programming-essentials
 
 
 ### JS Async and HTTP Requests
+#### Introduction to JSON
+![image](https://github.com/user-attachments/assets/f83633a9-3945-4e91-9be2-69f9ef07eef1)
+
+![image](https://github.com/user-attachments/assets/55de3dc8-5e35-43d3-8042-58ea932c1e02)
+
+![image](https://github.com/user-attachments/assets/29cbaa94-82f7-4122-8e6a-940a78ed4e56)
+
+![image](https://github.com/user-attachments/assets/6ceb74fa-b2c8-45f6-a555-f336813e2ae6)
+![image](https://github.com/user-attachments/assets/b50633af-e6e2-46d1-9612-de30a30490e0)
+
+
+#### Introduction to Async and Sync Execution
+![image](https://github.com/user-attachments/assets/42751639-b44d-44fd-8f93-9a7373166dbb)
+
+- synchronous code
+  ![image](https://github.com/user-attachments/assets/3f2c6325-3013-49aa-8bd6-292ffdae5631)
+
+- asynchronous code
+![image](https://github.com/user-attachments/assets/3ee4ecc1-0c53-4084-a764-b8d52b064568)
+![image](https://github.com/user-attachments/assets/c9adf2de-6d54-4a50-b04b-622bc4a5f7fc)
+
+![image](https://github.com/user-attachments/assets/de376f69-564d-4ed8-8e29-a615b89a98e5)
+![image](https://github.com/user-attachments/assets/45047a98-7416-4a51-bdbb-e552d2695633)
+
+![image](https://github.com/user-attachments/assets/2697de83-6046-4d51-9601-e45a9c018971)
+
+![image](https://github.com/user-attachments/assets/aa183aaa-3e57-4027-a999-26deb4fb735a)
+
+![image](https://github.com/user-attachments/assets/b51e234b-5f21-4357-9636-d29159d8e520)
+
+#### Introduction to AJAX (Asynchronous JavaScript and XML)
+
+![image](https://github.com/user-attachments/assets/ac5b860f-b679-444b-b640-4d16d507b0b0)
+![image](https://github.com/user-attachments/assets/f2e8cb36-34ad-434e-ae6d-cfd38c7ac856)
+
+![image](https://github.com/user-attachments/assets/9f064a81-706f-459e-b6ec-aad94fbeaaef)
+![image](https://github.com/user-attachments/assets/b94e3bc8-6539-4455-8a98-6aa71ccd3cd6)
+
+![image](https://github.com/user-attachments/assets/28145f68-cc34-40d7-a259-9a738566fdee)
+
+![image](https://github.com/user-attachments/assets/c0a156cb-0123-40d9-847e-0d886ceed09b)
+
+![image](https://github.com/user-attachments/assets/bc99d2e0-1a67-4447-bed3-674f53fcf896)
+
+![image](https://github.com/user-attachments/assets/edd0eb02-5e7a-44b3-a3cd-73fd53688eaf)
+
+![image](https://github.com/user-attachments/assets/532caf17-4f07-4e35-8732-90ab2bde7fbf)
+
+#### Http Requests with XMLHttpRequest (XHR)
+![image](https://github.com/user-attachments/assets/50a21505-4408-479c-9bd2-8b707b32eac4)
+
+![image](https://github.com/user-attachments/assets/ede5ed1c-b0c5-4501-bb00-433e355f3e13)
+
+![image](https://github.com/user-attachments/assets/9811558c-465d-4b3c-b18e-00a2f8997c4b)
+![image](https://github.com/user-attachments/assets/61322d89-5408-463f-bdfa-708509c887c7)
+![image](https://github.com/user-attachments/assets/93d0ca94-bd3e-42c0-b9f3-9998f889edf4)
+
+
+
+
+
+
+
+
+
+  
+
+
 
 ### Asynchronous Data Retrival Techniques
 

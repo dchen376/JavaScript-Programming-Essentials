@@ -457,18 +457,26 @@ https://www.coursera.org/learn/javascript-programming-essentials
 ![image](https://github.com/user-attachments/assets/93d0ca94-bd3e-42c0-b9f3-9998f889edf4)
 
 
-
-
-
-
-
-
-
-  
-
-
-
 ### Asynchronous Data Retrival Techniques
+#### Understanding Promises for API
+![image](https://github.com/user-attachments/assets/40d20c01-fabe-4097-9f3b-d8ebfb7c2774)
+
+#### callback
+![image](https://github.com/user-attachments/assets/b44cec98-b61a-4213-b8b8-0c857dfe7508)
+
+![image](https://github.com/user-attachments/assets/452fd131-db06-47c4-a71f-386bef37d931)
+![image](https://github.com/user-attachments/assets/7545d1bd-e7ea-42e3-9a11-a214945070b9)
+![image](https://github.com/user-attachments/assets/e1c98c82-e76a-4de9-b7b3-f5d76de6d5fd)
+
+![image](https://github.com/user-attachments/assets/2e6fb8e5-4bde-4809-a8d1-4374766e91ce)
+
+#### promises
+![image](https://github.com/user-attachments/assets/1d247233-7a56-404d-aa2e-3138ec8021b7)
+![image](https://github.com/user-attachments/assets/c4447e2f-0233-4045-9c8b-a9fbd7ba472a)
+
+
+
+
 
 ### Summary
 

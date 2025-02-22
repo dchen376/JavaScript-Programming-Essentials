@@ -474,6 +474,42 @@ https://www.coursera.org/learn/javascript-programming-essentials
 ![image](https://github.com/user-attachments/assets/1d247233-7a56-404d-aa2e-3138ec8021b7)
 ![image](https://github.com/user-attachments/assets/c4447e2f-0233-4045-9c8b-a9fbd7ba472a)
 
+![image](https://github.com/user-attachments/assets/2cd99068-131f-4197-a76b-127d909ae806)
+
+- creating callback using promises
+  ![image](https://github.com/user-attachments/assets/3070bdf6-60a5-4eea-a57e-02a76f7ce47b)
+![image](https://github.com/user-attachments/assets/904891c4-7b39-4b23-9567-289d58252a29)
+![image](https://github.com/user-attachments/assets/e552d743-91e5-4b88-91cd-b73d4c525954)
+
+![image](https://github.com/user-attachments/assets/6579fd95-852e-45e3-90a7-87ded6e1afa9)
+
+#### Understanding the fetch() API
+![image](https://github.com/user-attachments/assets/6a5fe539-93c6-4326-8486-4f7a0f9cf41d)
+
+![image](https://github.com/user-attachments/assets/069f424e-ec8d-4370-b665-c510a5b248df)
+
+![image](https://github.com/user-attachments/assets/3c98fe99-eb74-4e61-8174-67594c5a0254)
+
+![image](https://github.com/user-attachments/assets/f0248912-4ddc-4b4d-b24b-f4f6d1cb8acc)
+
+![image](https://github.com/user-attachments/assets/923bc916-e5e4-458f-8928-6ab3b861d07e)
+
+![image](https://github.com/user-attachments/assets/1796384a-abdb-4867-864a-98592aa41362)
+![image](https://github.com/user-attachments/assets/d8dcb2b4-bb0b-4300-a4f9-73e80c947ed4)
+![image](https://github.com/user-attachments/assets/ca3f691e-b072-453d-8934-92d657045517)
+![image](https://github.com/user-attachments/assets/69013a18-202d-466b-90f1-dab07407b7e6)
+![image](https://github.com/user-attachments/assets/621577aa-ceab-4693-b437-6c2b5f88ef7f)
+![image](https://github.com/user-attachments/assets/fe17700d-1ddd-48ff-8cac-e85a164c75c8)
+
+![image](https://github.com/user-attachments/assets/b7571056-ce32-4ff9-b9d9-6626dea2edeb)
+
+
+
+
+
+
+
+
 
 
 

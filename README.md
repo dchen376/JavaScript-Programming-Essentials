@@ -53,7 +53,7 @@ https://www.coursera.org/learn/javascript-programming-essentials
 #### Looping and interation
 
 
-### into to JS Functions & Events
+### Intro to JS Functions & Events
 
 #### Intro to functions and types of functions
 ![image](https://github.com/user-attachments/assets/e5bc9fe2-e1ae-4d87-89de-2433545d87b4)
